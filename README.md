@@ -6,8 +6,6 @@ My recent work includes implementing **Transformer-based language models from sc
 
 I believe strong AI systems are built by engineers who understand both the **math and the machinery** behind them. I learn by building, debugging, and iterating—preferring clarity and depth over black-box usage.
 
-Open to research-oriented roles, applied ML engineering opportunities, and technical collaborations.
-
 ---
 
 ## Socials
