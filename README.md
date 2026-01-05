@@ -6,6 +6,14 @@ My recent work includes implementing Transformer-based language models from scra
 
 I believe strong AI systems are built by engineers who understand both the math and the machinery behind them. I learn by building, debugging, and iterating—preferring clarity and depth over black-box usage.
 
+## GitHub Stats
+
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=yashraj01-se&theme=dark&show_icons=true&count_private=true">
+
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=yashraj01-se&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=yashraj01-se&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+
 ## My Skills
 
 ### 🧠 Machine Learning & AI
@@ -72,14 +80,6 @@ I believe strong AI systems are built by engineers who understand both the math 
 * Linux · Anaconda
 
 ---
-
-## GitHub Stats
-
-<table><tbody><tr border="none"><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=yashraj01-se&theme=dark&show_icons=true&count_private=true">
-
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=yashraj01-se&theme=dark"></td><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=yashraj01-se&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
 ## Connect with me
 
