@@ -38,12 +38,3 @@ React, Next.js, Node.js, Spring Boot
 MongoDB, MySQL, SQLite, Prisma  
 
 ---
-
-## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=yashraj01-se&theme=codeSTACKr&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=yashraj01-se&theme=codeSTACKr&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashraj01-se&theme=codeSTACKr&hide_border=false&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=yashraj01-se&icon=0&color=0)](https://visitcount.itsvg.in)
