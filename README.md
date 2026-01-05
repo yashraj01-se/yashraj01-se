@@ -1,4 +1,4 @@
-## About Me
+# About Me
 
 I work at the intersection of Machine Learning systems and applied AI, with a strong focus on understanding models beyond surface-level abstractions. I am currently a Data Engineer Intern, gaining hands-on experience with cloud data architectures, scalable pipelines, and distributed systems, while actively building and studying deep learning and large language models from first principles.
 
