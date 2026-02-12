@@ -1,9 +1,9 @@
-# 🚀 Yashraj Sharma  
+#  Yashraj Sharma  
 **Machine Learning Systems Engineer | Deep Learning | LLMs | Computer Vision**
 
 ---
 
-## 🧠 About Me
+##  About Me
 I design and build AI systems from first principles, with a focus on rigorous understanding and practical scalability.
 
 My work operates at the intersection of Deep Learning, Large Language Models, Computer Vision, and ML Systems Engineering. I am particularly interested in understanding not only model performance, but the underlying learning dynamics, optimization behavior, and scaling characteristics that govern how these systems function in real-world environments.
@@ -14,7 +14,7 @@ I prioritize hands-on implementation — building models from scratch, studying 
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 <table>
 <tbody>
@@ -37,9 +37,9 @@ I prioritize hands-on implementation — building models from scratch, studying 
 
 ---
 
-# 🔬 Selected Work & Projects
+#  Selected Work & Projects
 
-## 🧠 Transformer-Based Language Models (From Scratch)
+##  Transformer-Based Language Models (From Scratch)
 
 - Implemented character-level and sequence-based Transformer architectures
 - Built attention mechanisms (self-attention, multi-head attention) manually
@@ -56,7 +56,7 @@ Focus areas:
 
 ---
 
-## 👁️ Real-Time Computer Vision Systems
+##  Real-Time Computer Vision Systems
 
 - Built real-time CV pipelines using OpenCV and PyTorch
 - Implemented gesture and sign recognition using landmark-based representations
@@ -71,7 +71,7 @@ Focus areas:
 
 ---
 
-## ⚙️ End-to-End ML Pipeline Design
+##  End-to-End ML Pipeline Design
 
 - Designed reproducible ML workflows
 - Integrated MLflow for experiment tracking
@@ -87,7 +87,7 @@ Focus areas:
 
 ---
 
-## 🗄️ Scalable Data & Distributed Systems
+##  Scalable Data & Distributed Systems
 
 - Designed ETL pipelines using Databricks and PySpark
 - Implemented SCD Type 2 dimensional modeling
@@ -103,7 +103,7 @@ Focus areas:
 
 ---
 
-# 🧠 Core Expertise
+#  Core Expertise
 
 ## Deep Learning & AI
 - Transformer Architectures
@@ -132,7 +132,7 @@ Focus areas:
 
 ---
 
-# 🧩 Programming
+#  Programming
 
 - Python (Primary)
 - C++ · C
@@ -141,7 +141,7 @@ Focus areas:
 
 ---
 
-# 🔧 Frameworks & Tools
+#  Frameworks & Tools
 
 - PyTorch
 - NumPy · Pandas
@@ -154,7 +154,7 @@ Focus areas:
 
 ---
 
-# ☁️ Cloud Platforms
+#  Cloud Platforms
 
 - Microsoft Azure
 - AWS
@@ -162,7 +162,7 @@ Focus areas:
 
 ---
 
-# 🔗 Connect
+#  Connect
 
 📎 LinkedIn: [Yashraj Sharma](https://linkedin.com/in/yashraj-sharma-61027a2aa)  
 📧 Email: yashsharma000098@gmail.com
