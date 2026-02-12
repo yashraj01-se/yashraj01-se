@@ -11,6 +11,7 @@ My work operates at the intersection of Deep Learning, Large Language Models, Co
 Currently serving as a Data Engineer Intern, I contribute to the design of scalable data infrastructure while actively developing and analyzing neural architectures and production-grade ML systems. My approach emphasizes strong mathematical foundations, careful experimentation, and systems-level thinking.
 
 I prioritize hands-on implementation — building models from scratch, studying gradient flow and activation behavior, debugging training instabilities, and constructing end-to-end ML pipelines that bridge theory and deployment.
+
 ---
 
 # 📊 GitHub Stats
