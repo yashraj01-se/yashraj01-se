@@ -13,6 +13,29 @@ Currently serving as a Data Engineer Intern, I contribute to the design of scala
 I prioritize hands-on implementation — building models from scratch, studying gradient flow and activation behavior, debugging training instabilities, and constructing end-to-end ML pipelines that bridge theory and deployment.
 ---
 
+# 📊 GitHub Stats
+
+<table>
+<tbody>
+<tr border="none">
+<td width="50%" align="center">
+
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=yashraj01-se&theme=dark&show_icons=true&count_private=true">
+
+<img alt="Streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=yashraj01-se&theme=dark">
+
+</td>
+<td width="50%" align="center">
+
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=yashraj01-se&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6">
+
+</td>
+</tr>
+</tbody>
+</table>
+
+---
+
 # 🔬 Selected Work & Projects
 
 ## 🧠 Transformer-Based Language Models (From Scratch)
@@ -76,29 +99,6 @@ Focus areas:
 - Distributed computation
 - Data integrity and schema evolution
 - ML-ready data foundations
-
----
-
-# 📊 GitHub Stats
-
-<table>
-<tbody>
-<tr border="none">
-<td width="50%" align="center">
-
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=yashraj01-se&theme=dark&show_icons=true&count_private=true">
-
-<img alt="Streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=yashraj01-se&theme=dark">
-
-</td>
-<td width="50%" align="center">
-
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=yashraj01-se&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6">
-
-</td>
-</tr>
-</tbody>
-</table>
 
 ---
 
