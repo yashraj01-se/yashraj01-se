@@ -1,86 +1,167 @@
-# About Me
+# 🚀 Yashraj Sharma  
+**Machine Learning Systems Engineer | Deep Learning | LLMs | Computer Vision**
 
-I work at the intersection of Machine Learning systems and applied AI, with a strong focus on understanding models beyond surface-level abstractions. I am currently a Data Engineer Intern, gaining hands-on experience with cloud data architectures, scalable pipelines, and distributed systems, while actively building and studying deep learning and large language models from first principles.
+---
 
-My recent work includes implementing Transformer-based language models from scratch, developing real-time computer vision systems, and designing end-to-end ML pipelines that balance theoretical rigor with practical constraints. I am particularly interested in LLMs, attention-based architectures, multimodal systems, and model interpretability, and in how these models behave, scale, and can be responsibly controlled.
+## 🧠 About Me
+I design and build AI systems from first principles, with a focus on rigorous understanding and practical scalability.
 
-I believe strong AI systems are built by engineers who understand both the math and the machinery behind them. I learn by building, debugging, and iterating—preferring clarity and depth over black-box usage.
+My work operates at the intersection of Deep Learning, Large Language Models, Computer Vision, and ML Systems Engineering. I am particularly interested in understanding not only model performance, but the underlying learning dynamics, optimization behavior, and scaling characteristics that govern how these systems function in real-world environments.
 
-# GitHub Stats
+Currently serving as a Data Engineer Intern, I contribute to the design of scalable data infrastructure while actively developing and analyzing neural architectures and production-grade ML systems. My approach emphasizes strong mathematical foundations, careful experimentation, and systems-level thinking.
 
-<table><tbody><tr border="none"><td width="50%" align="center">
+I prioritize hands-on implementation — building models from scratch, studying gradient flow and activation behavior, debugging training instabilities, and constructing end-to-end ML pipelines that bridge theory and deployment.
+---
+
+# 🔬 Selected Work & Projects
+
+## 🧠 Transformer-Based Language Models (From Scratch)
+
+- Implemented character-level and sequence-based Transformer architectures
+- Built attention mechanisms (self-attention, multi-head attention) manually
+- Analyzed gradient flow, normalization (BatchNorm vs LayerNorm), and initialization effects
+- Studied signal propagation and activation scaling in deep networks
+- Implemented autoregressive generation and probabilistic sampling techniques
+- Explored optimization dynamics (learning rate scheduling, weight initialization, saturation behavior)
+
+Focus areas:
+- Attention scaling
+- Activation distribution stability
+- Model capacity vs context window trade-offs
+- Perplexity evaluation and sampling strategies
+
+---
+
+## 👁️ Real-Time Computer Vision Systems
+
+- Built real-time CV pipelines using OpenCV and PyTorch
+- Implemented gesture and sign recognition using landmark-based representations
+- Designed vision pipelines optimized for latency and deployment
+- Worked on transformer-style temporal modeling for sequential visual data
+- Integrated model inference into interactive systems
+
+Focus areas:
+- Efficient feature extraction
+- Temporal sequence modeling
+- Deployment constraints and inference optimization
+
+---
+
+## ⚙️ End-to-End ML Pipeline Design
+
+- Designed reproducible ML workflows
+- Integrated MLflow for experiment tracking
+- Implemented dataset versioning and structured experimentation
+- Built training → validation → deployment pipelines
+- Implemented model monitoring and performance evaluation frameworks
+
+Focus areas:
+- Production-ready ML
+- Drift detection
+- CI/CD for ML systems
+- Evaluation reproducibility
+
+---
+
+## 🗄️ Scalable Data & Distributed Systems
+
+- Designed ETL pipelines using Databricks and PySpark
+- Implemented SCD Type 2 dimensional modeling
+- Built fact and dimension tables for analytics-ready systems
+- Developed distributed transformations in Spark
+- Worked with Azure-based cloud data architecture
+
+Focus areas:
+- Lakehouse architecture
+- Distributed computation
+- Data integrity and schema evolution
+- ML-ready data foundations
+
+---
+
+# 📊 GitHub Stats
+
+<table>
+<tbody>
+<tr border="none">
+<td width="50%" align="center">
+
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=yashraj01-se&theme=dark&show_icons=true&count_private=true">
 
-<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=yashraj01-se&theme=dark"></td><td width="50%" align="center">
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=yashraj01-se&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+<img alt="Streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=yashraj01-se&theme=dark">
 
-# My Skills
+</td>
+<td width="50%" align="center">
 
-### 🧠 Machine Learning & AI
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=yashraj01-se&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6">
 
-* Machine Learning · Deep Learning
-* Large Language Models (LLMs) · Transformers · Attention
-* NLP · Computer Vision · Multimodal Systems
-* Model Evaluation · Interpretability
-
----
-
-### ⚙️ ML Systems & MLOps
-
-* End-to-End ML Pipelines
-* Experiment Tracking (MLflow)
-* Data Versioning (DVC)
-* Model Deployment & Serving
-* CI/CD for ML
-* Monitoring & Drift Detection
-* Production ML Systems
+</td>
+</tr>
+</tbody>
+</table>
 
 ---
 
-### 🧩 Programming Languages
+# 🧠 Core Expertise
 
-* Python · C++ · C · Java · JavaScript
+## Deep Learning & AI
+- Transformer Architectures
+- Large Language Models (LLMs)
+- Attention Mechanisms
+- Deep Learning Optimization
+- Signal Propagation & Initialization Theory
+- NLP · Computer Vision · Multimodal Systems
+- Model Evaluation & Interpretability
 
----
+## ML Systems & Infrastructure
+- End-to-End ML Pipelines
+- Experiment Tracking (MLflow)
+- Model Deployment & Serving
+- Monitoring & Drift Detection
+- CI/CD for ML
+- Production ML Architecture
 
-### 🔧 Frameworks & Libraries
-
-* PyTorch
-* NumPy · Pandas
-* OpenCV
-* FastAPI
-
----
-
-### ☁️ Cloud & Infrastructure
-
-* AWS · Google Cloud Platform
-* Docker · Kubernetes
-
----
-
-### 🗄️ Data Engineering & Databases
-
-* Data Pipelines · Distributed Systems
-* MongoDB · DynamoDB · SQLite
-
----
-
-### 🌐 Web & Backend
-
-* React · Next.js
-* Node.js
-* REST APIs
+## Data & Distributed Systems
+- Databricks
+- PySpark
+- Spark SQL
+- Delta Lake
+- Azure Databricks
+- Distributed Data Processing
 
 ---
 
-### 🛠️ Tools & Platforms
+# 🧩 Programming
 
-* Git · GitHub
-* Linux · Anaconda
+- Python (Primary)
+- C++ · C
+- Java · JavaScript
+- SQL
 
 ---
 
-# Connect with me
+# 🔧 Frameworks & Tools
 
-<p align="center">🔗 LinkedIn: <a href="https://linkedin.com/in/yashraj-sharma-61027a2aa" target="_blank">Yashraj Sharma</a> Email: yashsharma000098@gmail,com</p>
+- PyTorch
+- NumPy · Pandas
+- OpenCV
+- FastAPI
+- Databricks
+- PySpark
+- MLflow
+- Docker · Kubernetes
+
+---
+
+# ☁️ Cloud Platforms
+
+- Microsoft Azure
+- AWS
+- Google Cloud Platform
+
+---
+
+# 🔗 Connect
+
+📎 LinkedIn: [Yashraj Sharma](https://linkedin.com/in/yashraj-sharma-61027a2aa)  
+📧 Email: yashsharma000098@gmail.com
